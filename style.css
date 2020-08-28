@@ -2,4 +2,5 @@ h1 {
   aspect-ratio: 1.2;
   color:aqua;
   size: 25;
+  background-blend-mode: color;
 }
