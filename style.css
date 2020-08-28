@@ -3,4 +3,5 @@ h1 {
   color:aqua;
   size: 25;
   background-blend-mode: color;
+  block-size: 0%;
 }
